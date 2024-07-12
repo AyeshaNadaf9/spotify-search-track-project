@@ -1,0 +1,18 @@
+.track1{
+
+}
+.track1 .track2{
+    display: flex;
+    justify-content: center;
+   box-shadow: 5px 5px 5px #ccc;
+   text-shadow: 3px 3px 3px grey;
+   font-size:xx-large;
+}
+.tracks{
+   display: grid;
+   block-size: 250px;
+   gap: 10px;
+   grid-template-columns: inherit;
+   grid-template-rows: initial;
+   vertical-align: unset;
+}

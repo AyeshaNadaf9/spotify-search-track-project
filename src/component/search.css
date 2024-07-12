@@ -1,0 +1,29 @@
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.search input[type="search"]{
+    padding:12px 14px ;
+    font-size:large ;
+    width: 300px;
+    font-weight:bolder;
+}
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   border-radius:10px ;
+   box-shadow: 5px 5px 5px #ccc;
+   text-shadow: 3px 3px 3px grey;
+   font-size:xx-large;
+}
+.search input[type="submit"]{
+    width: 100px;
+    padding: 12px 14px;
+    background: darkblue;
+    color: white;
+    font-size:large ;
+    border: 2px solid black;
+    cursor: grab;
+}

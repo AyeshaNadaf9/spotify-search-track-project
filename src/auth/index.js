@@ -1,0 +1,4 @@
+ export const authkey= {
+    oAuthToken:"Bearer BQDnFyPa-l5Pe_bOgE1K3JqqLyyCJmUVWB73eKm5X-pq9uQW4qV5lgYTya45Wezn6qj_WPpO9msaXQD_deW2lFbcHtHjZD1iv-wRJfg_Vz3cZqW21f5nkALpBB1X79fVFYmUxRlKxKrz57uuFKf-MKMWO-5c2b1qHek0zUJynluN2mB4QDuQohCWikI6vZhVRKo3UlQNd3dBKunnPq8pQ_Vu"
+};
+export default authkey;
